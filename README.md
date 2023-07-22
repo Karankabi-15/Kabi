@@ -4,6 +4,6 @@ Leasing/Renting office space application
 
 Team Members:
 
-1) Kabilan J
-2) Aakash S
-3) Elon Musk
+1) kABILAN J
+2) AAKASH S
+3) ACHUTHAN R.B
